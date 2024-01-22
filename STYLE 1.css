@@ -1,0 +1,51 @@
+body{
+    background-color:  #bad0cd ;
+    /*padding: 100px;*/
+    margin: 100px;
+}
+
+
+p{
+    color: darkred;
+    /*text-align: center;*/
+}
+
+
+.two{
+    color: mediumpurple;
+    font-size: 25px;
+    font-family: Vemana2000;
+    font-weight: bolder;
+
+}
+ .three{
+     border: darkred 1px solid;
+     border-radius: 21111px 10000px 21111px;
+     padding: 50px;
+     text-align: center;
+ }
+
+ .one{
+     border: darkred 2px solid;
+     border-radius: 100px 0px 100px;
+
+     width: 50%;
+     height: 50%;
+ }
+
+ a{
+text-decoration: none;
+     color: steelblue;
+
+ }
+
+ a:hover{
+     color: darkgreen;
+     font-size: 15px;
+     border-bottom: dimgrey 1px solid;
+
+ }
+
+#rm:hover{
+    color: gray;
+}

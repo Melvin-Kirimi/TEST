@@ -1,0 +1,30 @@
+body{
+    background-color: beige;
+    font-family: "DejaVu Sans";
+    text-align: center;
+    background-image: ;
+    font-size: 30px;
+
+
+}
+.one{
+    text-align: center;
+    border: darkred 1px solid;
+    border-radius: 10px 0px 10px;
+    font-size: 30px;
+    color: crimson;
+}
+
+.qw{
+    text-decoration: none;
+}
+.qw:hover{
+    color: #bad0cd;
+    font-size: 30px;
+
+
+}
+
+#siste{
+    font-size: 25px;
+}

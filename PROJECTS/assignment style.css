@@ -1,0 +1,130 @@
+
+h4{
+    font-family: "DejaVu Sans";
+
+
+
+}
+
+
+
+
+.four{
+    margin: 80px;
+    /*padding-right: 50%;*/
+    float: left;
+    width: 300px;
+    /*border: #bad0cd 1px solid;*/
+    text-align: left;
+}
+.two{
+    float: right;
+    width: 400px;
+    /*padding-left: 1000px;*/
+    /*border: #bad0cd 1px solid;*/
+    margin: 50px;
+    height: 10px;
+    text-align: left;
+    padding-top: 30px;
+
+}
+.three{
+    text-align: right ;
+    padding-top: 100px;
+
+}
+
+.five{
+    border: #bad0cd 1px solid;
+    border-radius: 10px 10px 10px 10px;
+    text-align: left;
+
+
+}
+.five input[type=text], .five input[type=email] {
+    opacity: 1;
+    display: table-row;
+    border: none;
+    width: 150px;
+    height: 40px;
+    outline: none;
+    font-size: 0.9em;
+    border-radius: 10px;
+    background: #3c3c3c;
+    color: #fff;
+    margin: 10px;
+
+
+}
+.six{
+    border: 0;
+    outline: 0;
+    width: 150px;
+    padding: 13px;
+    border-radius: 500px;
+    font-weight: 600;
+    cursor: pointer;
+    margin: 20px;
+    transition: 0.7s;
+
+
+}
+textarea{
+    background-color: #3c3c3c;
+    text-align: left;
+    /*padding-right: 100px;*/
+    width:350px ;
+    margin: 10px;
+    font-family: "DejaVu Sans";
+    color: white;
+    height: 90px;
+    font-size: 0.9em;
+    border-radius: 10px 10px 10px;
+}
+
+.six:hover{
+    background-color: black;
+    color: white;
+    animation: ease-in-out;
+
+}
+
+textarea:hover , .five input[type=text]:hover , .five input[type=email]:hover {
+    background-color: white;
+    animation: ease-in-out;
+    color: black;
+    transition: 0.5s ;
+    cursor: text;
+
+}
+.SEVEN{
+
+    text-align: right;
+
+}
+
+.eight{
+    border: 0;
+    outline: 0;
+    width: 120px;
+    padding: 13px;
+    border-radius: 100px;
+    font-weight: 600;
+    cursor: pointer;
+    margin: 20px;
+    transition: 0.7s;
+    font-size: 10px ;
+
+
+}
+
+.eight:hover{
+
+        background-color: black;
+    color: white;
+    animation: ease-in-out;
+
+}
+
+
+
